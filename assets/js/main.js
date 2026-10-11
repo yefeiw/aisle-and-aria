@@ -1,5 +1,5 @@
 /* ============================================================
-   Vow & Verse — interactions
+   Aisle & Aria — interactions
    ============================================================ */
 (function () {
   "use strict";
@@ -8,11 +8,11 @@
      CONFIG — edit these values to make the site yours.
      ---------------------------------------------------------- */
   var CONFIG = {
-    email: "hello@vowandverse.com",   // booking form + contact link
+    email: "hello@aisleandaria.com",   // booking form + contact link
     phone: "+1 (000) 000-0000",       // shown in the contact list
     social: {
-      label: "@vowandverse",          // shown in the contact list
-      url: "https://instagram.com/vowandverse"
+      label: "@aisleandaria",          // shown in the contact list
+      url: "https://instagram.com/aisleandaria"
     }
   };
 

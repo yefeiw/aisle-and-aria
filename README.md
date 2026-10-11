@@ -1,4 +1,4 @@
-# Vow & Verse
+# Aisle & Aria
 
 Personal website for a wedding officiant & reception MC — available nationwide and for destination weddings.
 
@@ -35,16 +35,16 @@ the field values are already collected in one place.
 ```bash
 git init
 git add -A
-git commit -m "Vow & Verse — wedding officiant site"
+git commit -m "Aisle & Aria — wedding officiant site"
 git branch -M main
-git remote add origin git@github.com:<you>/vow-and-verse.git
+git remote add origin git@github.com:<you>/aisle-and-aria.git
 git push -u origin main
 ```
 
 Then: repo → Settings → Pages → Source: *Deploy from a branch* → Branch: `main` / root.
-Site goes live at `https://<you>.github.io/vow-and-verse/`.
+Site goes live at `https://<you>.github.io/aisle-and-aria/`.
 
-For a custom domain (e.g. `vowandverse.com`), add a `CNAME` file containing the domain
+For a custom domain (e.g. `aisleandaria.com`), add a `CNAME` file containing the domain
 and point DNS at GitHub Pages — or use Cloudflare Pages / Netlify, which work with this
 folder as-is.
 
